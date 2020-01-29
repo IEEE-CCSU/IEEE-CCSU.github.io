@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Future Club Event'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
