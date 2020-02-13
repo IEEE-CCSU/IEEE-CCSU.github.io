@@ -1,10 +1,15 @@
 ---
 title: "Copernicus Tourbot"
 # permalink: /projects/
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/tourbot.jpg'>"
+excerpt: "Configuring a robot that would be able to guide students around the maze of Nicolaus Copernicus<br/><img src='/images/tourbot.jpg'>"
 collection: projects
 ---
 
-### Test of Projects/Tourbot Page
+### TourBot
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+*This page is still underconstruction
+
+####Goal of Project
+*Create a robot that would be able to guide students to different rooms around the building of Nicolaus Copernicus 
+  *Currently we have the robot moving now developing the positional awareness 
+
