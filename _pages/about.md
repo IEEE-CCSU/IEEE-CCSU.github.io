@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Who We Are
+[Who We Are](https://ieee-ccsu.github.io/officers/)
 ======
 
 
-What We Do
+[What We Do](https://ieee-ccsu.github.io/projects/)
 ======
 
 
