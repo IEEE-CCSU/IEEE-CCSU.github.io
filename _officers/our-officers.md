@@ -11,7 +11,7 @@ permalink: /officers/
 |Caleb Bostic-Gardner|Vice-President      |
 |                    |Treasurer           |
 |                    |Scribe?             |
-|[David Broderick](https://djbrod.github.io/)|Faculty Staff       |li
+|[David Broderick](https://djbrod.github.io/)|Faculty Staff       |
 
 
 ### Mission Goal
@@ -22,4 +22,4 @@ permalink: /officers/
     >IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
 * Since the organziation is international, we are apart of the smaller region of [Connecticut](https://ieeect.org/)
 * You could join the IEEE oganzition by clicking the join button and following the instructions to the website 
-[Join IEEE](https://www.ieee.org/membership/join/index.html) {: .btn}
+[Join IEEE](https://www.ieee.org/membership/join/index.html){: .btn}
